@@ -1,14 +1,14 @@
-# Hi guys 👋, I'm Hưng!
+# Hi guys 👋, I'm Phuc!
 
-![Profile views](https://komarev.com/ghpvc/?username=HungUsername&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=nguyenminhphuc15&color=blue)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[Exciting Project](https://github.com/gnuh24/SocialMedia)**
+- 🔭 I’m currently working on **[Exciting Project](https://github.com/nguyenminhphuc15)**
 - 🌱 I’m learning **Software Engineering at SaiGon University**  
-  Current GPA: **3.55/4.0**
+  Current GPA: **3.2/4.0**
 - 👯 I’m looking to collaborate on **Open Source Projects and Enterprise Applications**
 - 💬 Ask me about **Web Development, API Design, and Scalable Systems**
-- 📫 How to reach me: [hungnt.020404@gmail.com](mailto:hungnt.020404@gmail.com)
+- 📫 How to reach me: [nguyenphucminh880@gmail.com](mailto:nguyenphucminh880@gmail.com)
 - ⚡ Fun fact: **Coding feels better with a playlist! 🎵**
 
 ## 🌟 Skills
@@ -23,21 +23,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### **Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white) ![Fish Shell](https://img.shields.io/badge/Fish_Shell-00A9E0?style=for-the-badge&logo=fish&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
 ### **Other libraries**
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-2C3E50?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ## 🎵 My Hobbies
-- 🎤 I can sing and play the **guitar**, **piano**, and **melodica**.
-- 🎮 I enjoy playing **League of Legends: Wild Rift**.
+- 🎮 I enjoy playing **League of Legends**.
 - 🏆 I’m a big fan of **Esports**!
-- ⚽ **FC Bayern Munich** supporter.
 
 ## 📫 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thug0204/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100036421866670)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ngmiphuc/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/nguyen.phuc.191857/i)
 
-## 🐚 My Setup
-- I'm using **Arch Linux** 🖥️
-- I write **Shell Scripts** and use **Fish Shell** for a more enjoyable terminal experience.
